@@ -1,0 +1,8 @@
+jdk21/
+jdk21.zip
+kafka/
+kafka_2.13-3.7.1.tgz
+kafka-logs/
+data/
+__pycache__/
+.venv/
